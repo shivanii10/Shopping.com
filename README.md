@@ -6,4 +6,6 @@ here, I am using all the basics of HTML,CSS and JavaScript.
 
 Hope you like it!
 
+https://shivanii10.github.io/Shopping.com/home.html
+
 Made with ❤
